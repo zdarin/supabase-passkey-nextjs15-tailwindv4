@@ -25,7 +25,7 @@ admin_email = "noreply@project.lt"
 sender_name = "Project"
 ```
 
-for testing email you can use [Mailtrap](https://mailtrap.io/)
+for testing emails you can use [Mailtrap](https://mailtrap.io/)
 
 Step2
 <br>
@@ -37,7 +37,7 @@ npx supabase start
 
 Step 3
 <br>
-rename file `.env.production` to `.env.local`
+rename file `production.env` to `.env.local`
 
 Step 4
 <br>
@@ -49,7 +49,7 @@ SERVICE_ROLE_KEY
 AUTH_JWT_SECRET
 ```
 
-Open supabase studio [http://localhost:54323](http://localhost:54323)
+Supabase studio link [http://localhost:54323](http://localhost:54323)
 
 ## Quickstart Nextjs
 
@@ -69,7 +69,7 @@ run the development server:
 npm run dev
 ```
 
-Open project [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sign-up)
+Project link [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sign-up)
 
 ## Project photos
 
@@ -80,8 +80,6 @@ Open project [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sig
 <img width="1436" alt="Screenshot 2025-02-28 at 13 46 03" src="https://github.com/user-attachments/assets/5b1b9f8b-d428-4a8d-b3e7-c1c817f02039" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 47 46" src="https://github.com/user-attachments/assets/bea4c3de-9228-48df-b1be-16a5bbdf93bc" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 47 38" src="https://github.com/user-attachments/assets/96aceb1e-bcc9-4b90-88cf-115404863aec" />
-
-
 
 ## Special thanks for
 
