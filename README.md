@@ -37,7 +37,7 @@ npx supabase start
 
 Step 3
 <br>
-rename file `production.env` to `.env.local`
+rename file `development.env` to `.env.local`
 
 Step 4
 <br>
