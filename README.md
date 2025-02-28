@@ -90,7 +90,7 @@ Project link [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sig
         Oussama Ouazize
     </a>
     <br>
-    integrate simplewebauthn (passkey) with supabase
+    integrated simplewebauthn (passkey) with supabase
 </div>
 
 <br>
@@ -100,7 +100,15 @@ Project link [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sig
         DarjusZ
     </a>
     <br>
-    reduce code to learn basic integrations of simplewebauthn (passkey) with supabase
+    ieduced code to learn basic integrations of simplewebauthn (passkey) with supabase
+</div>
+
+<br>
+<div>
+
+- Based on Blog
+  [Adding passkeys to a Supabase app without using third parties](https://jcmosc.com/blog/adding-passkeys-to-a-supabase-app)
+
 </div>
 
 ## Learn more
