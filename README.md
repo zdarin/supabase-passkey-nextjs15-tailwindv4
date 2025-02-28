@@ -71,19 +71,24 @@ Open project [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sig
 
 ## Special thanks for
 
-<a href="https://github.com/oouazize">
-    <img src="https://avatars.githubusercontent.com/u/93908021?v=4" width="64"/>
-    Oussama Ouazize
-</a>
-<br>
-integrate simplewebauthn (passkey) with supabase
+<div>
+    <a href="https://github.com/oouazize">
+        <img src="https://avatars.githubusercontent.com/u/93908021?v=4" style="border-radius: 50%; width: 100px; height: 100px;"/>
+        Oussama Ouazize
+    </a>
+    <br>
+    integrate simplewebauthn (passkey) with supabase
+</div>
 
-<a href="https://github.com/zdarin">
-    <img src="https://avatars.githubusercontent.com/u/42121280?v=4" width="64"/>
-    DarjusZ
-</a>
 <br>
-reduce code to learn basic integrations of simplewebauthn (passkey) with supabase
+<div>
+    <a href="https://github.com/zdarin">
+        <img src="https://avatars.githubusercontent.com/u/42121280?v=4" style="border-radius: 50%; width: 100px; height: 100px;"/>
+        DarjusZ
+    </a>
+    <br>
+    reduce code to learn basic integrations of simplewebauthn (passkey) with supabase
+</div>
 
 ## Learn more
 
