@@ -77,6 +77,7 @@ Open project [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sig
 <img width="1436" alt="Screenshot 2025-02-28 at 13 44 49" src="https://github.com/user-attachments/assets/9fc1ef6b-48fd-4fcd-a990-ba3f44fca361" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 45 07" src="https://github.com/user-attachments/assets/90eb7d66-e815-458f-a34a-a3363ce6ab76" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 45 21" src="https://github.com/user-attachments/assets/929b62c8-fb7f-4393-a8b8-fe7ba9af4c9c" />
+<img width="1436" alt="Screenshot 2025-02-28 at 13 46 03" src="https://github.com/user-attachments/assets/5b1b9f8b-d428-4a8d-b3e7-c1c817f02039" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 47 46" src="https://github.com/user-attachments/assets/bea4c3de-9228-48df-b1be-16a5bbdf93bc" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 47 38" src="https://github.com/user-attachments/assets/96aceb1e-bcc9-4b90-88cf-115404863aec" />
 
