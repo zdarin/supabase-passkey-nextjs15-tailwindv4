@@ -1,0 +1,16 @@
+<html>
+	<body>
+		<h2>Magic Link</h2>
+
+		<p>Follow this link to login:</p>
+		<p>
+			<a
+				href="{{ .SiteURL }}/auth/confirm?token_hash={{ .TokenHash }}&type=email&redirect_to={{ .RedirectTo }}"
+				>Log In</a
+			>
+		</p>
+		<h2>One time login code</h2>
+
+		<p>Please enter this code: {{ .Token }}</p>
+	</body>
+</html>
