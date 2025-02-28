@@ -106,10 +106,7 @@ Project link [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sig
 <br>
 <div>
 
-Based on Blog
-<br>
-
-[Adding passkeys to a Supabase app without using third parties](https://jcmosc.com/blog/adding-passkeys-to-a-supabase-app)
+Based on Blog - [Adding passkeys to a Supabase app without using third parties](https://jcmosc.com/blog/adding-passkeys-to-a-supabase-app)
 
 </div>
 
