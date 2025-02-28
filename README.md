@@ -73,6 +73,7 @@ Project link [http://localhost:3000/auth/sign-up](http://localhost:3000/auth/sig
 
 ## Project photos
 
+<img width="1436" alt="Screenshot 2025-02-28 at 14 58 58" src="https://github.com/user-attachments/assets/443d0960-ab74-4ffb-8fdd-2be5740fa6f7" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 43 46" src="https://github.com/user-attachments/assets/e100a238-6808-4d59-b547-c97c9576243c" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 44 49" src="https://github.com/user-attachments/assets/9fc1ef6b-48fd-4fcd-a990-ba3f44fca361" />
 <img width="1436" alt="Screenshot 2025-02-28 at 13 45 07" src="https://github.com/user-attachments/assets/90eb7d66-e815-458f-a34a-a3363ce6ab76" />
